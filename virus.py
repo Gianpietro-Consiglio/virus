@@ -9,9 +9,7 @@ while True:
         #os.mkdir(f"C:\\arquivo{cont}")
         #os.chdir(f"C:\\arquivo{cont}")
         print(f"Processo -> {cont}")
-        if cont == 15:
-            break
-       
+              
     except:
         pass
     
